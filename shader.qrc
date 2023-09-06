@@ -1,0 +1,8 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file alias="shader/vertex-setup.glsl">shader/vertex-setup.glsl</file>
+    <file alias="shader/fragment-setup.glsl">shader/fragment-setup.glsl</file>
+    <file alias="shader/vertex-raycast.glsl">shader/vertex-raycast.glsl</file>
+    <file alias="shader/fragment-raycast.glsl">shader/fragment-raycast.glsl</file>
+</qresource>
+</RCC>
