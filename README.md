@@ -16,7 +16,7 @@ purpose, but I still think the effect looks cool. You can watch in in action
 Building etc.
 -------------
 
-The program was originally created using [MITK](https://mitk.org/) and Qt4. I
+The program was originally created using [MITK](https://www.mitk.org/) and Qt4. I
 could not get it to compile with current releases of these toolkits. Eventually,
 I'd like to create an updated version and perhaps get rid of the MITK dependency
 altogether. Until then, this repository serves as a backup so I don't lose the
